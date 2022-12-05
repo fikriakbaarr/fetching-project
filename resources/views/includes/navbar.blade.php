@@ -1,7 +1,7 @@
    <nav class="navbar navbar-expand-lg navbar-light navbar-store fixed-top navbar-fixed-top" data-aos="fade-down">
        <div class="container">
-           <a class="navbar-brand" href="{{ route('home') }}">
-               <img src="/images/logo-fetch.png" alt="" />
+           <a class="navbar-brand mb-4" href="{{ route('home') }}">
+               <img src="/images/litra_logo.png" alt="" />
            </a>
            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">

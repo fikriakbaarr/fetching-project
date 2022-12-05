@@ -120,7 +120,7 @@
 
                         <div class="col-md-6">
                             <div class="form-group">
-                                <label for="phone_number">Nomor telepon</label>
+                                <label for="phone_number">Nomor WhatsUp</label>
                                 <input type="text" class="form-control" id="phone_number" name="phone_number"
                                     value="+628 2020 11111" />
                             </div>

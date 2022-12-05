@@ -17,13 +17,13 @@
                             </ol>
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="/images/banner-fetch.jpg" class="d-block w-100" alt="Carousel Image" />
+                                    <img src="/images/header_litra.png" class="d-block w-100" alt="Carousel Image" />
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="/images/banner-fetch2.jpg" class="d-block w-100" alt="Carousel Image" />
+                                    <img src="/images/Group87.png" class="d-block w-100" alt="Carousel Image" />
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="/images/banner-fetch3.jpg" class="d-block w-100" alt="Carousel Image" />
+                                    <img src="/images/header2.jpg" class="d-block w-100" alt="Carousel Image" />
                                 </div>
                             </div>
                         </div>

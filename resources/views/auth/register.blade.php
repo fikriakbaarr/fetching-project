@@ -3,9 +3,9 @@
 @section('content')
     <div class="page-content page-auth mt-5" id="register">
         <div class="section-store-auth" data-aos="fade-up">
-            <div class="container">
+            <div class="container mt-4">
                 <div class="row justify-content-center">
-                    <div class="col-lg-4">
+                    <div class="col-lg-4 mt-5">
                         <h2>
                             Memulai untuk jual beli <br />
                             dengan cara terbaru
